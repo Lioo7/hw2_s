@@ -21,10 +21,10 @@
 
 ##### The program contains a Makefile file with the following commands:
 
-all: Compile the program.
-mains: Creates a static main file.
-myBanks: Creates a static library.
-clean: Deletes all files with the following extensions .o .a .so .out and execute files.
+* all: Compile the program.
+* mains: Creates a static main file.
+* myBanks: Creates a static library.
+* clean: Deletes all files with the following extensions .o .a .so .out and execute files.
 
 
 @author Lioz Akirav.
