@@ -5,8 +5,9 @@
 #### Project site: https://github.com/Lioo7/hw2_s.git
 
 
-### The assignment is about creating a bank, which can manage up to 50 accounts.
-### The user can use these transactions:
+
+##### The assignment is about creating a bank, which can manage up to 50 accounts.
+##### The user can use these transactions:
 
 * O - Open a new account and gets the initial amount of deposit and print the account number, if the bank is not full.
 * B - Gets the account number and prints the balance, if the account is open. 
