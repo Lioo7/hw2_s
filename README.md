@@ -6,7 +6,7 @@
 
 
 
-##### The assignment is about creating a bank, which can manage up to 50 accounts.
+##### The assignment is about creating a bank system, which can manage up to 50 accounts.
 ##### The user can use these transactions:
 
 * O - Open a new account and gets the initial amount of deposit and print the account number, if the bank is not full.
